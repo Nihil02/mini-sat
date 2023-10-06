@@ -1,5 +1,5 @@
 # Requisitos de software
-[node] (https://nodejs.org/en/download)
+[node](https://nodejs.org/en/download)
 
 # Comandos
 Usar los siguientes comandos para 
